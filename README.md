@@ -1,4 +1,1 @@
-Review-10th-class
-=================
-
-C/C++ source codes for reviewing C Functions and Vectors
+Aplicatii clasa a X-a pentru unitatea de invatare "Subprograme"
